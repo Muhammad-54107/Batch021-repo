@@ -1,1 +1,2 @@
-file 1 studff is here
+adding from github.com, infinite loop of creating repo was helpful
+adding more stuff form locally
